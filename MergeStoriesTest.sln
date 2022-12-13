@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyButton.Exam.Core", "JellyButton.Exam.Core.csproj", "{18f7f697-c52c-b5ac-c595-7ce2070ed143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyButton.Exam.Game", "JellyButton.Exam.Game.csproj", "{f73e4cd0-493d-fcdd-c4ef-225d0606347b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMode", "PlayMode.csproj", "{81698234-1f07-8e4f-073b-cdae986c42d9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5f36a5f4-4b0d-45a9-47a4-d91111b9a4a7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18f7f697-c52c-b5ac-c595-7ce2070ed143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18f7f697-c52c-b5ac-c595-7ce2070ed143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f73e4cd0-493d-fcdd-c4ef-225d0606347b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f73e4cd0-493d-fcdd-c4ef-225d0606347b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81698234-1f07-8e4f-073b-cdae986c42d9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81698234-1f07-8e4f-073b-cdae986c42d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5f36a5f4-4b0d-45a9-47a4-d91111b9a4a7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5f36a5f4-4b0d-45a9-47a4-d91111b9a4a7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

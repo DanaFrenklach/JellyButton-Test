@@ -1,0 +1,19 @@
+{
+    "name": "JellyButton.Exam.Game",
+    "rootNamespace": "JellyButton.Exam",
+    "references": [
+        "GUID:9e643bc410ff34055abafec6f35af951",
+        "GUID:ecf41d9d091e6f347981a8f91be06718",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
